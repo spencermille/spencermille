@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spencermiller
-- 👀 I’m interested in data science, data engineering, machine learningx, financial technology
+- 👀 I’m interested in data science, data engineering, machine learning, and financial technology
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on any learning/experience opportunities
 - 📫 How to reach me spencermiller946@gmail.com
